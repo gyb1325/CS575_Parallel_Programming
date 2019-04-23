@@ -1,0 +1,15 @@
+﻿  Source.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(67): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(69): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(100): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(121): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(122): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\guyo\courses\cs575\project2\project2\project2\source.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> D:\guyo\Courses\CS575\Project2\Project2\Debug\Project2.exe
