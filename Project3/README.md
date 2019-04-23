@@ -32,7 +32,7 @@ const float MIDPRECIP =				10.0;
 ```
 Units of grain growth are inches.   
 Units of temperature are degrees Fahrenheit (°F).   
-Units of precipitation are inches.  
+Units of precipitation are inches.    
 
 Because you know ahead of time how many threads you will need (3 or 4), start the threads with a parallel sections directive:  
 ```cpp
